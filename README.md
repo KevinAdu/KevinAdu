@@ -2,7 +2,7 @@
 * Welcome to my profile, feel free to check out my 🌐 [website](https://kevinadu.com/)!
 
 #### Current Working on
-* [GlassJockey](https://glassjockey.com/) - *Website to discover bars built using React and Rails API with GraphQL*
+* [Leo Adu Site](https://leoadu.com/) - *Website to show my son's life through photography*
 
 #### I work with
 * 💻 HTML, CSS, JavaScript, TypeScript, React, React Native, Ruby on Rails
